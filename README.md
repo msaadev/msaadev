@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello World! 👋
 
 ✨ My name is **Muhammed Şamil DEMİR**, I'm an Mobile 📱 Application Developer 💻 from Turkey 🇹🇷 <br>
