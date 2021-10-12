@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Muhammed Şamil DEMİR**, I'm an Mobile 📱 Application Developer 💻 from Turkey 🇹🇷 <br>
+✨ My name is **Muhammed Şamil DEMİR**, I'm a Flutter Developer 💻 from Turkey 🇹🇷 <br>
 
 
 ## 📌 GitHub Stats and Top Languages
