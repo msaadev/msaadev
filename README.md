@@ -2,6 +2,8 @@
 
 ✨ My name is **Muhammed Şamil DEMİR**, I'm a Flutter Developer 💻 from Turkey 🇹🇷 <br>
 
+![Profile views](https://gpvc.arturio.dev/msaadev)  <img src="https://img.shields.io/github/followers/msaadev?label=Follow" style=" float:left, margin-right:10px" />
+
 
 ## 📌 GitHub Stats and Top Languages
 
