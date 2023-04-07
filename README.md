@@ -26,4 +26,12 @@ You can find and get touch with me on these accounts 👀
 [![LinkedIn Badge](https://img.shields.io/badge/Samil%20DEMIR-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-%C5%9Famil-demir-a13aa91a9/)
 
 [![Twitter Badge](https://img.shields.io/badge/Samil%20DEMIR-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/msaadev)
+   
+  <br>
+  <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+</div>
 
